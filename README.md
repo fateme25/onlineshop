@@ -7,10 +7,10 @@ A simulation of client side e-commerce website with feature as add to cart,and l
 
 <div>
  <p>
+<img src="https://github.com/fatmeh25/onlineshop/blob/main/onlineshop/screenshot/dem2.png?raw=true" width="280px">
+<img src="https://github.com/fatmeh25/onlineshop/blob/main/onlineshop/screenshot/demo1.png?raw=true" width="280px">
+<img src="https://github.com/fatmeh25/onlineshop/blob/main/onlineshop/screenshot/demo3.png?raw=true" width="280px">
 
-<img src="./screenshot/demo1.png" width="280px">
-<img src="./screenshot/dem2.png" width="280px">
-<img src="./screenshot/demo3.png" width="280px">
   </p>
 </div>
 
