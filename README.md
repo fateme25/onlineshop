@@ -7,9 +7,9 @@ A simulation of client side e-commerce website with feature as add to cart,and l
 
 <div>
  <p>
-<img src="./screenshot/dem1.png" width="280px">
-<img src="./screenshot/dem2.png" width="280px">
-<img src="./screenshot/demo3.png" width="280px">
+<img src="screenshot/dem1.png" width="280px">
+<img src="screenshot/dem2.png" width="280px">
+<img src="screenshot/demo3.png" width="280px">
   </p>
 </div>
 
