@@ -18,7 +18,7 @@ A simulation of client side e-commerce website with feature as add to cart,and l
 
 https://ecommerce-onlineshop.netlify.app/
 
-### Technologies
+### Technologie
 
 #### Frontend:
 
