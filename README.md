@@ -4,7 +4,6 @@
 A simulation of client side e-commerce website with feature as add to cart,and login-form proceed for checkout and payment options. It simultes a shopping cart within a website.
 
 #### Screenshots of the website
-one simple text line 
 
 <div>
  <p>
