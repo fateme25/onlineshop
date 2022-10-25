@@ -214,7 +214,7 @@ class Products {
     let button=this.getSingleButton(id);
     /* we use it when we remove an item we are not able to click on it agian and
     choose it again */
-    // button.disabled=true;
+    button.disabled=false;
     button.innerHTML=` <i class="fa fa-shopping-cart"></i>مشاهده و خرید`;
    }
    getSingleButton(id){
